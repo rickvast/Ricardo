@@ -1,6 +1,6 @@
-drop database if exists bd_futbol;
-create database bd_futbol;
-use bd_futbol;
+drop database if exists BD_Futbol;
+create database BD_Futbol;
+use BD_Futbol;
 
 create table Liga (
 id_liga int not null auto_increment,
